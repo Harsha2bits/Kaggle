@@ -42,12 +42,23 @@ Submission file must be named submission.csv
     * Which questions belong to which lectures is missing .
 
 ---
+# Preliminary Observation
+1. The impact of user starting at different period of time is not covered. What it means is that an user will probably cover more on weekends than weekdays or vice versa.
+2. The relationship between questions and lectures is not provided.
+3. Some lectures might be related and there might be progression involved in lecutres which is again not covered.
+4. Estimatoins are to be based on previous question answered for a particular user and some users may not have any data at all for previous interactions or will be new in test set.
+5. Users can be active on platform or can be sporodoic and based on that they might have some impact on the performance. 
+6. Students generally tend to forget as time passes what is that rate is not provided.
+
+
 # Key Questions to Answer
+1. How to visualize user intraction on time scale and identify events?
+2. Relationship between questions and lectures?
+3. Relationship between lectures?
+    * What lecutres are together?
+    * What lectures are mandatory before proceeding to the next one?
+4. What is the impact of time on student answering a question wrong? How long does it take a user to forget?
 
-- [x] checking
-- [] click here
 
-[Render this](https://www.google.com)
 
-![Checking](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MY9K2_VW_34FR+watch-44-stainless-gold-cell-6s_VW_34FR_WF_CO?wid=750&hei=712&trim=1,0&fmt=p-jpg&qlt=80&op_usm=0.5,0.5&.v=1599269261000,1599537309000)
 
